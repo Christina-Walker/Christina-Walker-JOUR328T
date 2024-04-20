@@ -101,7 +101,7 @@ var ctx = document.getElementById('myChart').getContext('2d');
         //Chart title
         title: {
             display: true,
-            text: 'Danceability of the Top 10 Most Streamed Spotify Songs in 2023',
+            text: 'Level of Energy of the Top 10 Most Streamed Spotify Songs in 2023',
             font: {
                 size: 18
             }
